@@ -1,2 +1,2 @@
 # Powershell
-A script repository
+A script repository for useful scripts
